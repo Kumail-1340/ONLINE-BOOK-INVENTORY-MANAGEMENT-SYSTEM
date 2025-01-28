@@ -69,7 +69,7 @@
 
   <h2>Feedback</h2>
   <p class="feedback">
-    If you have any feedback, please reach out to us at <a href="mailto:saeed00sadia5@gmil.com">kumailabbas1340@gmail.com</a>.
+   Feel free to share your feedback at <a href="mailto:saeed00sadia5@gmil.com">kumailabbas1340@gmail.com</a>.
   </p>
 </body>
 </html>
